@@ -35,9 +35,17 @@ Another major improvement would be to add authentication. At the moment the orde
 
 ### Screenshots showing your postman requests and the output from the API.
 
-### Screenshots of your database to prove that data is being persisted.
+<img width="1552" alt="user:add" src="https://user-images.githubusercontent.com/97613686/158638083-7e6c76d4-8110-4450-bf48-839313d75ecc.png">
+<img width="1552" alt="estaurant:all" src="https://user-images.githubusercontent.com/97613686/158638248-cf57751a-093a-48b3-a345-06aea9eb406b.png">
+<img width="1552" alt="restaurant:1:products" src="https://user-images.githubusercontent.com/97613686/158638261-150accd5-3284-4d42-87c3-259b571f6dfd.png">
+<img width="1552" alt="order:add" src="https://user-images.githubusercontent.com/97613686/158638275-d59d0ab8-7e7c-4c24-b9de-ea8993873778.png">
+<img width="1552" alt="order_product:add" src="https://user-images.githubusercontent.com/97613686/158638292-04914de9-387e-4879-9fc3-ad2bf55f14bc.png">
+
 
 ### Screenshot of your test results, including coverage report.
+
+<img width="1552" alt="tets coverage" src="https://user-images.githubusercontent.com/97613686/158638198-0ab3029d-32f1-4eea-98d9-7d77c9f4d8f9.png">
+
 
 ### Link to Jira Board - You must add your trainer(s) as collaborators also.
 
